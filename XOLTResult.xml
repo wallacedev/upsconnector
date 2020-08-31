@@ -1,0 +1,7 @@
+<ExecutionAt>Sun Aug 23 20:03:03 IST 2020</ExecutionAt>
+<ToolOrWebServiceName>Ship Web Service</ToolOrWebServiceName>
+
+<ResponseStatus>
+	<Code>Provider com.sun.xml.internal.ws.spi.ProviderImpl not found</Code>
+	<Description>javax.xml.ws.WebServiceException: Provider com.sun.xml.internal.ws.spi.ProviderImpl not found</Description>
+</ResponseStatus>
